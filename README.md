@@ -1,6 +1,6 @@
 ## DANNY MA'S 8 WEEK SQL CHALLENGE
-    The 8 Week SQL Challenge is was created by the [Data with Danny](https://www.datawithdanny.com/) 
-    virtual data apprenticeship program to celebrate the launch of the [Serious SQL](https://bit.ly/3gWUT2G) course!
+The 8 Week SQL Challenge is was created by the [Data with Danny](https://www.datawithdanny.com/) 
+virtual data apprenticeship program to celebrate the launch of the [Serious SQL](https://bit.ly/3gWUT2G) course!
 
 ### CHALLENGE LIST
 > Below is a list of the challenges that make up the *8 Week SQL Challenge.*
