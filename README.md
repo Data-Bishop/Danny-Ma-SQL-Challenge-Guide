@@ -17,33 +17,33 @@ virtual data apprenticeship program to celebrate the launch of the [Serious SQL]
 
 
 #### CASE STUDY 1 - Danny's Diner
-Click [here](https://8weeksqlchallenge.com/case-study-1) to view the Original Challenge page.
+>Click [here](https://8weeksqlchallenge.com/case-study-1) to view the Original Challenge page.
 Click here to view my solution to the challenge.
 
 
 #### CASE STUDY 2 - Pizza Runner
-Click [here](https://8weeksqlchallenge.com/case-study-2) to view the Original Challenge page.
+>Click [here](https://8weeksqlchallenge.com/case-study-2) to view the Original Challenge page.
 
 
 #### CASE STUDY 3 - Foodie-Fi
-Click [here](https://8weeksqlchallenge.com/case-study-3) to view the Original Challenge page.
+>Click [here](https://8weeksqlchallenge.com/case-study-3) to view the Original Challenge page.
 
 
 #### CASE STUDY 4 - Data Bank
-Click [here](https://8weeksqlchallenge.com/case-study-4) to view the Original Challenge page.
+>Click [here](https://8weeksqlchallenge.com/case-study-4) to view the Original Challenge page.
 
 
 #### CASE STUDY 5 - Data Mart
-Click [here](https://8weeksqlchallenge.com/case-study-5) to view the Original Challenge page.
+>Click [here](https://8weeksqlchallenge.com/case-study-5) to view the Original Challenge page.
 
 
 #### CASE STUDY 6 - Clique Bait
-Click [here](https://8weeksqlchallenge.com/case-study-6) to view  the Original Challenge page.
+>Click [here](https://8weeksqlchallenge.com/case-study-6) to view  the Original Challenge page.
 
 
 #### CASE STUDY 7 - Balanced Tree Clothing Co.
-Click [here](https://8weeksqlchallenge.com/case-study-7) to view the Original Challenge page.
+>Click [here](https://8weeksqlchallenge.com/case-study-7) to view the Original Challenge page.
 
 
 #### CASE STUDY 8 - Fresh Segments
-Click [here](https://8weeksqlchallenge.com/case-study-8) to view the Original Challenge page.
+>Click [here](https://8weeksqlchallenge.com/case-study-8) to view the Original Challenge page.
