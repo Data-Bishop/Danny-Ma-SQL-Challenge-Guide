@@ -24,6 +24,7 @@ virtual data apprenticeship program to celebrate the launch of the [Serious SQL]
 
 #### CASE STUDY 2 - Pizza Runner
 >Click [here](https://8weeksqlchallenge.com/case-study-2) to view the Original Challenge page.
+
 >Click [here](https://github.com/Data-Bishop/Danny-Ma-Case-Study-2.git) to view my solutions for the challenge.
 
 
